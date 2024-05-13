@@ -94,7 +94,7 @@ ul li::before {
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   -o-border-radius: 50%;
-  background-image: url(./unchecked.png);
+  background-image: url(./images/unchecked.png);
   background-size: cover;
   top: 12px;
   left: 8px;
@@ -105,7 +105,7 @@ ul li.checked {
 }
 
 ul li.checked::before {
-  background-image: url(./checked.png);
+  background-image: url(./images/checked.png);
 }
 
 ul li span {
